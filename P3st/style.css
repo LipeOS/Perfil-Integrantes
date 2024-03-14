@@ -1,0 +1,70 @@
+body{
+    background: #1E2025;
+}
+
+img{
+    border-radius: 200rem;
+    width: 280px;
+    margin: 40px 0px 0px 20px
+    
+}
+
+.imagem{
+    display: flex;
+}
+
+.bg-name{
+    width: 500px;
+    height: 100px;
+    background: #3C5665;
+    border-radius: 10px;
+    margin: -250px 0px 0px 600px ;
+    display: flex;
+    -webkit-box-shadow: 4px 4px 17px 0px rgba(255, 255, 255, 0.75);
+    -moz-box-shadow: 4px 4px 17px 0px rgba(255, 255, 255, 0.75);
+    box-shadow: 4px 4px 17px 0px #92A4B1;
+
+}
+
+.icons img {
+    display: flex;
+    width: 40px;
+    padding: 5px;
+}
+
+.icons{
+    margin-top: 180px;
+    margin-left: 100px;
+}
+
+.bg-img{
+    background: #3C5665;
+    border-radius: 25px;
+    width: 85px;
+    -webkit-box-shadow: 4px 4px 17px 0px rgba(255, 255, 255, 0.75);
+    -moz-box-shadow: 4px 4px 17px 0px rgba(255, 255, 255, 0.75);
+    box-shadow: 4px 4px 17px 0px #92A4B1;
+}
+
+ h1{
+    color: antiquewhite;
+    margin-left: 170px;
+    margin-top: 30px;
+    letter-spacing: 5px;
+ }
+
+ .box{
+    background: #3C5665;
+    border-radius: 10px;
+    margin-top: -450px;
+    width: 45rem;
+    margin-left: 550px;
+    -webkit-box-shadow: 4px 4px 17px 0px rgba(255, 255, 255, 0.75);
+-moz-box-shadow: 4px 4px 17px 0px rgba(255, 255, 255, 0.75);
+box-shadow: 4px 4px 17px 0px #92A4B1;
+ }
+
+ p{
+    padding: 50px;
+    font-size: 25px;
+ }
